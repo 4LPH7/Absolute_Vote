@@ -1,0 +1,11 @@
+node_modules/
+artifacts/
+cache/
+types/
+coverage/
+frontend/dist/
+__pycache__/
+.venv/
+.vercel/
+.env
+.env.*
